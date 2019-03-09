@@ -9,3 +9,9 @@ The Chrome User Experience Report (CrUX) is a real user web performance dataset 
 - [By Device](https://bigquery.cloud.google.com/savedquery/92656134628:b5c09b3f57d9440d844477584c129338)
 
 - [By Device and Connection](https://bigquery.cloud.google.com/savedquery/92656134628:3fb7b355640b4b13a0d3cce08c5f3c90) 
+
+
+User Experience  | Metrics 
+-------------    | -------------
+Is it happening? | First Content Paint (FCP)
+Is it useful?    | First Meaningful Paint (FMP)
