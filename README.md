@@ -1,5 +1,5 @@
 # crux
-SQL code for Chorme User Experience Report. 
+SQL code for extracting insight from Chorme User Experience Report. 
 The Chrome User Experience Report (CrUX) is a real user web performance dataset on Google BigQuery. The data is aggregated from Chrome users who have opted-in.
 
 ### Measuring User Experience Metrics 
