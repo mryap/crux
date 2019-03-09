@@ -15,3 +15,5 @@ User Experience  | Metrics
 -------------    | -------------
 Is it happening? | First Content Paint (FCP)
 Is it useful?    | First Meaningful Paint (FMP)
+Is it usable?    | Time to Interactive (TTI)  
+
